@@ -1,0 +1,12 @@
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\obj\Debug\FakturaData.csprojResolveAssemblyReference.cache
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\FakturaData.dll.config
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\FakturaData.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\FakturaData.pdb
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\EntityFramework.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\Faktura.Models.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\Faktura.Models.pdb
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\EntityFramework.xml
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\obj\Debug\FakturaData.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\FakturaData\obj\Debug\FakturaData.pdb

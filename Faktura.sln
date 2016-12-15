@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakturaDesign", "FakturaDesign\FakturaDesign.csproj", "{2DDC5355-E356-4A90-AD36-F4FCF54569E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktura.Models", "Faktura.Models\Faktura.Models.csproj", "{3C49D22E-5246-4144-8D22-571E64ED1A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakturaData", "FakturaData\FakturaData.csproj", "{F7EE6EC7-E9C7-4A05-B713-FF44217A34F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDC5355-E356-4A90-AD36-F4FCF54569E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDC5355-E356-4A90-AD36-F4FCF54569E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDC5355-E356-4A90-AD36-F4FCF54569E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDC5355-E356-4A90-AD36-F4FCF54569E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C49D22E-5246-4144-8D22-571E64ED1A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C49D22E-5246-4144-8D22-571E64ED1A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C49D22E-5246-4144-8D22-571E64ED1A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C49D22E-5246-4144-8D22-571E64ED1A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EE6EC7-E9C7-4A05-B713-FF44217A34F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EE6EC7-E9C7-4A05-B713-FF44217A34F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EE6EC7-E9C7-4A05-B713-FF44217A34F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EE6EC7-E9C7-4A05-B713-FF44217A34F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

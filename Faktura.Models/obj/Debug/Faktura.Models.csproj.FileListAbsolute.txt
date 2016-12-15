@@ -1,0 +1,5 @@
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\Faktura.Models\bin\Debug\Faktura.Models.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\Faktura.Models\bin\Debug\Faktura.Models.pdb
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\Faktura.Models\obj\Debug\Faktura.Models.dll
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\Faktura.Models\obj\Debug\Faktura.Models.pdb
+C:\Users\Vision\documents\visual studio 2015\Projects\Faktura\Faktura.Models\obj\Debug\Faktura.Models.csprojResolveAssemblyReference.cache
